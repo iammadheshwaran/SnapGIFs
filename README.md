@@ -1,4 +1,4 @@
-# 🎉 GIF Search App
+# 🎉SnapGIFs - GIFs Search App
 
 A simple GIF search app built with **Vite + React** using the [GIPHY API](https://developers.giphy.com/).  
 Enter a keyword, and it fetches fun GIFs instantly.
